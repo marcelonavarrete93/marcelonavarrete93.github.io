@@ -1,0 +1,56 @@
+*{
+    background-color: rgb(122, 150, 162);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.foto{
+margin-top: 1px;
+text-align: center;
+}
+
+body{
+    padding: 2rem;
+}
+#intro{
+    font-style: italic;
+    font-size: medium;
+    margin-top: 1px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    background-color: aliceblue;
+}
+
+h2{
+    color: white;
+    background-color: grey;
+}
+.lista a{
+    font-style: oblique;
+    color: rgb(248, 248, 248);
+}
+
+
+#tb{
+    font-size: 15px;
+    font-style: oblique;
+    text-align: justify;
+    background-color: aliceblue;
+}
+strong{
+    background-color:aliceblue;
+}
+
+img{
+    margin: 2rem;
+}
+
+.formulario{
+    color: black;
+    font-style: normal;
+}
+
+
